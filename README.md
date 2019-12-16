@@ -1,4 +1,7 @@
 # AngularLoader
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/dhanushdeveloper429/progressbar.svg)](https://greenkeeper.io/)
+
 LIVE: https://firstclassjs.com/tutorials/angular-loader/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
